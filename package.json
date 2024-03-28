@@ -1,0 +1,20 @@
+{
+  "name": "ttrentsou-localization-package",
+  "version": "1.0.0", 
+  "description": "A package that simplifies the localization and internationalization of applications for different languages and regions. This could include functionalities for translating text content, formatting dates and numbers, and detecting user preferences.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttrentsou/ttrentsou-localization-package.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "ttrentsou",
+  "license": "MIT"
+}
